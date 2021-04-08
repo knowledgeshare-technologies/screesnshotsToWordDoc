@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: SAM
+Build-Jdk: 14.0.2
+Main-Class: com.del.sfa.stepDefinitions.MobileThreatDefence
+Created-By: Maven Integration for Eclipse
+
